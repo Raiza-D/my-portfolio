@@ -1,4 +1,5 @@
 import React from "react";
+import "../styles/Navigation.css";
 
 export default function Navigation() {
 
@@ -33,7 +34,7 @@ export default function Navigation() {
 
   return (
     <div>
-      <nav>
+      <nav class="menu">
         <span>Raiza de Guzman</span>
         <span>
           {categories.map((category) => {
