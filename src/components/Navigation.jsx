@@ -1,5 +1,7 @@
 import React from "react";
+import logo from "../logo.svg";
 import "../styles/Navigation.css";
+import { Navbar, Nav } from "react-bootstrap";
 
 export default function Navigation() {
 
@@ -33,19 +35,19 @@ export default function Navigation() {
 
 
   return (
-    <div>
-      <nav class="menu">
-        <span>Raiza De Guzman</span>
-        <span>
-          {categories.map((category) => {
-            return (
-              <a key={category.id} href={category.href}>
-                {category.name}
-              </a>
-            );
-          })}
-        </span>
-      </nav>
+    <div className="menu">
+      <Navbar>
+        <Navbar.Brand>
+          <img src={logo} width="40px" height="40px" />
+          {/* Logo */}
+        </Navbar.Brand>
+        <Nav>
+          <Nav.Link href="home">Home</Nav.Link>
+          <Nav.Link href="about-me">About Me</Nav.Link>
+          <Nav.Link href="skills">Skills</Nav.Link>
+          <Nav.Link href="projects">Projects</Nav.Link>
+        </Nav>
+      </Navbar>
     </div>
   );
 }
