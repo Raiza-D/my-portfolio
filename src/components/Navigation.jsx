@@ -10,7 +10,6 @@ export default function Navigation() {
       <Navbar>
         <Navbar.Brand>
           <img src={logo} width="40px" height="40px" />
-          {/* Logo */}
         </Navbar.Brand>
         <Nav>
           <Nav.Link href="home">Home</Nav.Link>
