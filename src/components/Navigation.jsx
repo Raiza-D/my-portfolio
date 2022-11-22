@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../logo.svg";
+import myLogo from "../assets/rdg-logo-transparent.png";
 import "../styles/Navigation.css";
 import { Navbar, Nav } from "react-bootstrap";
 
@@ -9,7 +9,7 @@ export default function Navigation() {
     <div className="menu">
       <Navbar>
         <Navbar.Brand>
-          <img src={logo} width="40px" height="40px" />
+          <img src={myLogo} width="100px" height="40px" />
         </Navbar.Brand>
         <Nav>
           <Nav.Link href="home">Home</Nav.Link>
