@@ -9,7 +9,7 @@ export default function Navigation() {
     <div className="menu">
       <Navbar className="d-flex justify-content-between">
         <Navbar.Brand>
-          <img src={myLogo} width="100px" height="40px" />
+          <img src={myLogo} alt="rdg" width="100px" height="40px" />
         </Navbar.Brand>
         <Nav>
           <Nav.Link href="home">Home</Nav.Link>
