@@ -35,7 +35,7 @@ export default function Navigation() {
   return (
     <div>
       <nav class="menu">
-        <span>Raiza de Guzman</span>
+        <span>Raiza De Guzman</span>
         <span>
           {categories.map((category) => {
             return (
