@@ -5,35 +5,6 @@ import { Navbar, Nav } from "react-bootstrap";
 
 export default function Navigation() {
 
-  const categories = [
-    {
-      name: "Home",
-      href: "#home",
-      id: 1,
-    },
-    {
-      name: "About",
-      href: "#about",
-      id: 2,
-    },
-    {
-      name: "Skills",
-      href: "#skills",
-      id: 3,
-    },
-    {
-      name: "Projects",
-      href: "#projects",
-      id: 4,
-    },
-    {
-      name: "Contact",
-      href: "#contact",
-      id: 5,
-    },
-  ];
-
-
   return (
     <div className="menu">
       <Navbar>
