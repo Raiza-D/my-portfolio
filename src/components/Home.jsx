@@ -9,8 +9,8 @@ export default function Home() {
         <p className="p-square-brack">[ ]</p>
       </div>
       <div>
-        <p className="p-my-name">Raiza De Guzman_</p>
-        <p className="p-my-title">Full-Stack Web Developer</p>
+        <p className="p-my-name">Raiza De Guzman</p>
+        <p className="p-my-title">Full-Stack Web Developer_</p>
       </div>
       {/* <img src={homeBg} alt="orange-black-wp" className="w-100"/> */}
     </div>
