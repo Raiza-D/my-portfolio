@@ -7,14 +7,14 @@ export default function About() {
   return (
     <div className="about">
       <Container className="pt-3 pb-3">
-        <h3>About Me</h3>
+        <h3 className="pb-3">About Me</h3>
         <img src={myPic} alt="raiza-headshot" />
         <p>
           Donec at tempus lectus, vitae dictum augue. Sed rhoncus tellus sed
           facilisis fermentum. Duis cursus luctus sapien vitae tempor.
           Vestibulum tempor suscipit aliquet. Ut iaculis felis mauris, ut ornare
           risus rhoncus eu. Proin sem mauris, faucibus vitae lobortis ac, congue
-          ac nibh. Maecenas eget iaculis sem.{" "}
+          ac nibh. Maecenas eget iaculis sem.
         </p>
       </Container>
     </div>
