@@ -7,7 +7,7 @@ export default function Navigation() {
 
   return (
     <div className="menu">
-      <Navbar className="d-flex justify-content-between">
+      <Navbar className="d-flex justify-content-between ps-3 pe-3" bg="myOrange">
         <Navbar.Brand>
           <img src={myLogo} alt="rdg" width="100px" height="40px" />
         </Navbar.Brand>
