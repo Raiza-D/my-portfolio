@@ -12,10 +12,9 @@ export default function About() {
           <img src={myPic} alt="raiza-headshot" width="219" height="213" className="pe-3"/>
           <div>
             <p>
-              Hello there! I'm Raiza, nice to e-meet you. I turned my
+              Hello there! I'm Raiza, nice to e-meet you. In 2021, I re-discovered coding. I was reminded how exciting and rewarding it was to see a visual representation of a piece of code you have written. Since then, I turned my
               love of resolving inventory variances into solving coding
-              challenges when I re-discovered coding in 2021 and decided to
-              pursue it as a career.
+              challenges by pursuing a career in Web Development.
             </p>
             <p>
               I have over eight years of experience working in a team-focused
