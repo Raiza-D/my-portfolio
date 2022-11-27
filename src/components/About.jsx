@@ -12,7 +12,7 @@ export default function About() {
           <img src={myPic} alt="raiza-headshot" width="219" height="213" className="pe-3"/>
           <div>
             <p>
-              Hello there, Visitor! I'm Raiza, nice to e-meet you. I turned my
+              Hello there! I'm Raiza, nice to e-meet you. I turned my
               love of resolving inventory variances into solving coding
               challenges when I re-discovered coding in 2021 and decided to
               pursue it as a career.
