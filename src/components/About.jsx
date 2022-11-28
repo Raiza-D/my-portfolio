@@ -26,8 +26,8 @@ export default function About() {
             </p>
             <p>
               When I'm not indoors crafting code, I can be found hiking in
-              nature and happily standing on top of a long-awaited mountain peak
-              beaming my signature, exceptionally-friendly smile.
+              nature, happily standing on top of a long-awaited mountain peak
+              beaming my signature, exceptionally friendly smile and figuring out which mountain to top to summit next.
             </p>
           </div>
         </div>
