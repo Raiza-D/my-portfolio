@@ -18,7 +18,7 @@ export default function About() {
               I have over eight years of experience working in a team-focused
               and client-oriented environment, working closely with people from
               different departments and across varying reporting levels within
-              an organization. I'm excited to launch my new career in tech and
+              an organization. I'm excited to launch a new career in tech and
               utilize my invaluable experiences in a Web Development capacity.
               My preference is the Front-End, as I love the visuals, but I'm
               equally eager to apply my skills and continue learning in a
