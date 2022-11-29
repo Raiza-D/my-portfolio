@@ -5,7 +5,7 @@ import Card from "react-bootstrap/Card";
 
 export default function Skills() {
   return (
-    <div className="skills">
+    <div className="skills pb-3">
       <Container>
         <h3 className="pt-3 pb-3">Skills</h3>
         <Card style={{ width: "18rem" }}>
