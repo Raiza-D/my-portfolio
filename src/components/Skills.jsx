@@ -11,7 +11,7 @@ export default function Skills() {
         <Card style={{ width: "18rem" }}>
           <Card.Img variant="top" src="holder.js/100px180" />
           <Card.Body>
-            <Card.Title>Card Title</Card.Title>
+            <Card.Title className="text-center">Card Title</Card.Title>
           </Card.Body>
         </Card>
       </Container>
