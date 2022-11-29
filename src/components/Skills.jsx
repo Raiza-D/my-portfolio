@@ -6,7 +6,9 @@ import Container from "react-bootstrap/Container";
 export default function Skills() {
   return (
     <div>
-      Skills
+      <Container>
+        Skills
+      </Container>
     </div>
   );
 }
