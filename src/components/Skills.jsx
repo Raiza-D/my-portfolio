@@ -7,7 +7,7 @@ export default function Skills() {
   return (
     <div className="skills">
       <Container>
-        <h3 className="pt-3">Skills</h3>
+        <h3 className="pt-3 pb-3">Skills</h3>
       </Container>
     </div>
   );
