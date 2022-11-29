@@ -8,8 +8,8 @@ export default function Skills() {
     <div className="skills pb-3">
       <Container>
         <h3 className="pt-3 pb-3">Skills</h3>
-        <Card style={{ width: "18rem" }}>
-          <Card.Img variant="top" src="holder.js/100px180" />
+        <Card style={{ width: "13rem" }}>
+          <Card.Img variant="top" src="" />
           <Card.Body>
             <Card.Title className="text-center">Card Title</Card.Title>
           </Card.Body>
