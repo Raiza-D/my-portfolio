@@ -7,7 +7,7 @@ export default function Skills() {
   return (
     <div className="skills">
       <Container>
-        Skills
+        <h3>Skills</h3>
       </Container>
     </div>
   );
