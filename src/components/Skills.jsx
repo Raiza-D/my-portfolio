@@ -12,7 +12,7 @@ export default function Skills() {
         <Card bg="dark" style={{ width: "10rem" }} className="card">
           {/* <Card.Img variant="top" src="../assets/skills/html.png" /> */}
           <Card.Body className="text-center">
-            <img src={HTML} width="40"/>
+            <img src={HTML} width="40" alt="html-logo"/>
             <Card.Title className="text-center">HTML</Card.Title>
           </Card.Body>
         </Card>
