@@ -137,6 +137,22 @@ export default function About() {
         </div>
         <hr />
         <p>These are some technologies I know and have worked with.</p>
+
+        <div>
+          {skills.map(skill => {
+            return (
+              <a
+                href={skill.link}
+                target="_blank"
+                rel="noreferrer"
+                key={skill.id}
+              >
+                <img src={skill.img} alt={skill.alt} width="80" height="65" />
+              </a>
+            );
+          })}
+        </div>
+
       </Container>
     </div>
   );
