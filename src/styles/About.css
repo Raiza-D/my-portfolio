@@ -1,4 +1,7 @@
 .about {
-  background-color: rgb(234, 224, 209);
+  /* background-color: rgb(234, 224, 209); */
+  background-image: url("../assets/mountain.jpg");
+  height: 100vh;
+  background-repeat: no-repeat;
   color: black;
 }
