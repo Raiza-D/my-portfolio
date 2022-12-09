@@ -137,7 +137,7 @@ export default function About() {
         </div>
         <hr />
         <p>These are some technologies I have worked with.</p>
-
+        <br />
         <div className="text-center">
           {skills.map(skill => {
             return (
