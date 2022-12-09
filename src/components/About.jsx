@@ -12,7 +12,7 @@ import sassLogo from "../assets/skills/sass.svg";
 import expressLogo from "../assets/skills/express.svg";
 import rubyOnRailsLogo from "../assets/skills/ruby-on-rails.svg";
 import postgresqlLogo from "../assets/skills/postgresql.svg";
-import cypressLogo from "../assets/skills/cypress.png";
+import cypressLogo from "../assets/skills/cypress.svg";
 import nodeLogo from "../assets/skills/nodejs.svg";
 import npmLogo from "../assets/skills/npm.svg";
 import gitLogo from "../assets/skills/git.svg";
