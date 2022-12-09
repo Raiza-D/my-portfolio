@@ -32,6 +32,7 @@ export default function About() {
           </div>
         </div>
         <hr />
+        <p>These are some technologies I know and have worked with.</p>
       </Container>
     </div>
   );
