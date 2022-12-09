@@ -1,5 +1,4 @@
 import React from "react";
-import homeBg from "../assets/programming-wp.jpg";
 import "../styles/Home.css";
 
 export default function Home() {
