@@ -3,7 +3,7 @@ import "../styles/Home.css";
 
 export default function Home() {
   return (
-    <div className="home d-flex justify-content-center">
+    <div id="home" className="home d-flex justify-content-center">
       <div>
         <p className="p-square-brack">[ ]</p>
       </div>
