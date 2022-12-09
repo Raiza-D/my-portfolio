@@ -110,7 +110,7 @@ export default function About() {
 
   return (
     <div className="about">
-      <Container className="pt-3 pb-3">
+      <Container className="pt-3 pb-3 about-blur">
         <h3 className="pb-3">About Me</h3>
         <div className="d-flex">
           <img src={myPic} alt="raiza-headshot" width="219" height="213" className="pe-3"/>
