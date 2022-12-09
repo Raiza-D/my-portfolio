@@ -4,7 +4,9 @@ import Container from "react-bootstrap/Container";
 export default function Projects() {
   return (
     <div id="projects">
-      Projects
+      <Container>
+        <h3>Projects</h3>
+      </Container>
     </div>
   );
 }
