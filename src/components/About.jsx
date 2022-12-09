@@ -33,8 +33,79 @@ export default function About() {
       alt: "CSS3 Logo",
       link: "https://developer.mozilla.org/en-US/docs/Web/CSS",
     },
+    {
+      id: 3,
+      img: javascriptLogo,
+      alt: "JavaScript Logo",
+      link: "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    },
+    {
+      id: 4,
+      img: rubyLogo,
+      alt: "Ruby Logo",
+      link: "https://www.ruby-lang.org/en/",
+    },
+    {
+      id: 5,
+      img: reactLogo,
+      alt: "React.js Logo",
+      link: "https://reactjs.org/",
+    },
+    {
+      id: 6,
+      img: bootstrapLogo,
+      alt: "Bootstrap Logo",
+      link: "https://getbootstrap.com/",
+    },
+    {
+      id: 7,
+      img: sassLogo,
+      alt: "SASS Logo",
+      link: "https://sass-lang.com/",
+    },
+    {
+      id: 8,
+      img: expressLogo,
+      alt: "Express.js Logo",
+      link: "https://expressjs.com/",
+    },
+    {
+      id: 9,
+      img: rubyOnRailsLogo,
+      alt: "Ruby On Rails Logo",
+      link: "https://rubyonrails.org/",
+    },
+    {
+      id: 10,
+      img: postgresqlLogo,
+      alt: "PostgreSQL Logo",
+      link: "https://www.postgresql.org/",
+    },
+    {
+      id: 11,
+      img: cypressLogo,
+      alt: "Cypress.io Logo",
+      link: "https://www.cypress.io/",
+    },
+    {
+      id: 12,
+      img: nodeLogo,
+      alt: "Node.js Logo",
+      link: "https://nodejs.org/en/",
+    },
+    {
+      id: 13,
+      img: npmLogo,
+      alt: "npm Logo",
+      link: "https://www.npmjs.com/",
+    },
+    {
+      id: 14,
+      img: gitLogo,
+      alt: "git Logo",
+      link: "https://git-scm.com/",
+    },
   ];
-
 
 
   return (
