@@ -12,10 +12,10 @@ export default function Navigation() {
           <img src={myLogo} alt="rdg" width="100px" height="40px" />
         </Navbar.Brand>
         <Nav>
-          <Nav.Link href="home">Home</Nav.Link>
-          <Nav.Link href="about-me">About Me</Nav.Link>
-          <Nav.Link href="projects">Projects</Nav.Link>
-          <Nav.Link href="contact">Contact</Nav.Link>
+          <Nav.Link href="#home">Home</Nav.Link>
+          <Nav.Link href="#about-me">About Me</Nav.Link>
+          <Nav.Link href="#projects">Projects</Nav.Link>
+          <Nav.Link href="#contact">Contact</Nav.Link>
         </Nav>
       </Navbar>
     </div>
