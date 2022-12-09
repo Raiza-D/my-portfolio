@@ -2,6 +2,10 @@ import React from "react";
 import "../styles/About.css";
 import Container from "react-bootstrap/Container";
 import myPic from "../assets/rdg6426-cropped.png";
+import htmlLogo from "../assets/skills/html5.svg";
+import cssLogo from "../assets/skills/css3.svg";
+import javascriptLogo from "../assets/skills/javascript.svg";
+
 
 export default function About() {
   return (
