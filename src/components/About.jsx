@@ -5,6 +5,18 @@ import myPic from "../assets/rdg6426-cropped.png";
 import htmlLogo from "../assets/skills/html5.svg";
 import cssLogo from "../assets/skills/css3.svg";
 import javascriptLogo from "../assets/skills/javascript.svg";
+import rubyLogo from "../assets/skills/ruby.svg";
+import reactLogo from "../assets/skills/reactjs.svg";
+import bootstrapLogo from "../assets/skills/bootstrap.svg";
+import sassLogo from "../assets/skills/sass.svg";
+import expressLogo from "../assets/skills/express.svg";
+import rubyOnRailsLogo from "../assets/skills/ruby-on-rails.svg";
+import postgresqlLogo from "../assets/skills/postgresql.svg";
+import cypressLogo from "../assets/skills/cypress.png";
+import nodeLogo from "../assets/skills/nodejs.svg";
+import npmLogo from "../assets/skills/npm.svg";
+import gitLogo from "../assets/skills/git.svg";
+
 
 
 export default function About() {
