@@ -136,7 +136,7 @@ export default function About() {
           </div>
         </div>
         <hr />
-        <p>These are some technologies I know and have worked with.</p>
+        <p>These are some technologies I have worked with.</p>
 
         <div>
           {skills.map(skill => {
