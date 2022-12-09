@@ -18,8 +18,25 @@ import npmLogo from "../assets/skills/npm.svg";
 import gitLogo from "../assets/skills/git.svg";
 
 
-
 export default function About() {
+
+  const skills = [
+    {
+      id: 1,
+      img: htmlLogo,
+      alt: "HTML logo",
+      link: "https://developer.mozilla.org/en-US/docs/Web/HTML",
+    },
+    {
+      id: 2,
+      img: cssLogo,
+      alt: "CSS3 Logo",
+      link: "https://developer.mozilla.org/en-US/docs/Web/CSS",
+    },
+  ];
+
+
+
   return (
     <div className="about">
       <Container className="pt-3 pb-3">
