@@ -147,7 +147,7 @@ export default function About() {
                 rel="noreferrer"
                 key={skill.id}
               >
-                <img src={skill.img} alt={skill.alt} width="80" height="65" />
+                <img src={skill.img} alt={skill.alt} width="110" height="80" className="skills-img pe-4" />
               </a>
             );
           })}
