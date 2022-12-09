@@ -5,7 +5,7 @@ export default function Projects() {
   return (
     <div id="projects">
       <Container>
-        <h3>Projects</h3>
+        <h3 className="pt-3">Projects</h3>
       </Container>
     </div>
   );
