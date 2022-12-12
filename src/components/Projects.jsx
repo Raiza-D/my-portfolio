@@ -27,8 +27,8 @@ export default function Projects() {
           <Carousel.Item>
             <img
               className="d-block w-100"
-              src="holder.js/800x400?text=Second slide&bg=eee"
-              alt="Second slide"
+              src={jungleRailsScreenshot}
+              alt="Jungle Rails screenshot"
             />
             <Carousel.Caption>
               <h5>Second slide label</h5>
