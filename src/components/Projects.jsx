@@ -3,7 +3,7 @@ import Container from "react-bootstrap/Container";
 import Carousel from "react-bootstrap/Carousel";
 import gardnrScreenshot from "../assets/projects/gardnr-weatherwarning.png";
 import jungleRailsScreenshot from "../assets/projects/jungle-rails-home.png";
-import schedulerScreenshot from "../assets/projects/jungle-rails-home.png";
+import schedulerScreenshot from "../assets/projects/scheduler-newappt.png";
 import findersSneakersScreenshot from "../assets/projects/finderssneakers-index-loggedin.png";
 
 
@@ -38,8 +38,8 @@ export default function Projects() {
           <Carousel.Item>
             <img
               className="d-block w-100"
-              src="holder.js/800x400?text=Third slide&bg=e5e5e5"
-              alt="Third slide"
+              src={schedulerScreenshot}
+              alt="Scheduler screenshot"
             />
             <Carousel.Caption>
               <h5>Third slide label</h5>
