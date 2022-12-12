@@ -20,8 +20,8 @@ export default function Projects() {
               alt="Gardnr screenshot"
             />
             <Carousel.Caption>
-              <h5>First slide label</h5>
-              <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+              <h5>Gardnr</h5>
+              <p>A React application integrated with a weather API allowing users to manage their garden plants' unique watering schedules.</p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
