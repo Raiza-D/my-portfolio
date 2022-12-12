@@ -21,7 +21,10 @@ export default function Projects() {
             />
             <Carousel.Caption>
               <h5>Gardnr</h5>
-              <p>A React application integrated with a weather API allowing users to manage their garden plants' unique watering schedules.</p>
+              <p>
+                A React application integrated with a weather API allowing users
+                to manage their garden plants' unique watering schedules.
+              </p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
@@ -44,7 +47,21 @@ export default function Projects() {
             <Carousel.Caption>
               <h5>Scheduler</h5>
               <p>
-                A single-page React app allowing users to book, edit, and cancel interviews.
+                A single-page React app allowing users to book, edit, and cancel
+                interviews.
+              </p>
+            </Carousel.Caption>
+          </Carousel.Item>
+          <Carousel.Item>
+            <img
+              className="d-block w-100"
+              src={findersSneakersScreenshot}
+              alt="FindersSneakers screenshot"
+            />
+            <Carousel.Caption>
+              <h5>FindersSneakers</h5>
+              <p>
+                A multi-page buy/sell app for sneaker lovers!
               </p>
             </Carousel.Caption>
           </Carousel.Item>
