@@ -1,6 +1,7 @@
 import React from "react";
 import Container from "react-bootstrap/Container";
 import Carousel from "react-bootstrap/Carousel";
+import GardnrScreenshot from "../assets/projects/gardnr-weatherwarning.png";
 
 export default function Projects() {
   return (
