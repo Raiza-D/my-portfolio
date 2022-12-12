@@ -42,9 +42,9 @@ export default function Projects() {
               alt="Scheduler screenshot"
             />
             <Carousel.Caption>
-              <h5>Third slide label</h5>
+              <h5>Scheduler</h5>
               <p>
-                Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+                A single-page React app allowing users to book, edit, and cancel interviews.
               </p>
             </Carousel.Caption>
           </Carousel.Item>
