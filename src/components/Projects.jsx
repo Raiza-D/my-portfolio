@@ -1,5 +1,6 @@
 import React from "react";
 import Container from "react-bootstrap/Container";
+import Carousel from "react-bootstrap/Carousel";
 
 export default function Projects() {
   return (
