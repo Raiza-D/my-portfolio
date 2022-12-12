@@ -31,8 +31,8 @@ export default function Projects() {
               alt="Jungle Rails screenshot"
             />
             <Carousel.Caption>
-              <h5>Second slide label</h5>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h5>Jungle Rails</h5>
+              <p>An e-commerce plant app built with Ruby on Rails.</p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
