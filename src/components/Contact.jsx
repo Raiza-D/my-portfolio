@@ -10,8 +10,10 @@ export default function Contact() {
       <Container className="pt-3">
         <h3 className="pb-3">Contact</h3>
         <p>Connect with me on these platforms:</p>
-        <img src={linkedInLogo} alt="LinkedIn logo"width="8%" />
-        <img src={gitHubLogo} alt="LinkedIn logo" width="5%" />
+        <div className="d-flex justify-content-evenly">
+          <img src={linkedInLogo} alt="LinkedIn logo" width="8%" />
+          <img src={gitHubLogo} alt="LinkedIn logo" width="5%" />
+        </div>
       </Container>
     </div>
   );
