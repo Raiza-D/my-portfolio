@@ -11,8 +11,8 @@ export default function Contact() {
         <h3 className="pb-3">Contact</h3>
         <p>Connect with me on these platforms:</p>
         <div className="d-flex justify-content-evenly">
-          <img src={linkedInLogo} alt="LinkedIn logo" width="8%" />
-          <img src={gitHubLogo} alt="LinkedIn logo" width="5%" />
+          <img src={linkedInLogo} alt="LinkedIn logo" width="8%"/>
+          <img src={gitHubLogo} alt="GitHub logo" width="5%" />
         </div>
       </Container>
     </div>
