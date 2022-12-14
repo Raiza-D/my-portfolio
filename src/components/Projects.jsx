@@ -60,9 +60,7 @@ export default function Projects() {
             />
             <Carousel.Caption>
               <h5>FindersSneakers</h5>
-              <p>
-                A multi-page buy/sell app for sneaker lovers!
-              </p>
+              <p>A multi-page buy/sell app for sneaker lovers!</p>
             </Carousel.Caption>
           </Carousel.Item>
         </Carousel>
