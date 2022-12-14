@@ -5,7 +5,7 @@ export default function Footer () {
 
   return (
     <div>
-      <p>©️ Raiza De Guzman {thisYear}</p>
+      <p>© Raiza De Guzman {thisYear}</p>
     </div>
   );
 };
