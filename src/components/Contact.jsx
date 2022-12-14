@@ -5,7 +5,8 @@ export default function Contact() {
   return (
     <div id="contact">
       <Container>
-        LET'S CONNECT!
+        <h3>Contact</h3>
+        <p>Connect with me on these platforms:</p>
       </Container>
     </div>
   );
