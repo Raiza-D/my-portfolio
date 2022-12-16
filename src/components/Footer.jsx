@@ -6,7 +6,7 @@ export default function Footer () {
 
   return (
     <div className="bg-orange d-flex justify-content-center align-items-center">
-      <p>© Raiza De Guzman {thisYear}</p>
+      <p>© {thisYear} Raiza De Guzman</p>
     </div>
   );
 };
