@@ -23,7 +23,7 @@ export default function Projects() {
           <Card.Text>
             A multi-page React application integrated with a weather API allowing users to manage their garden plants' watering schedules.
           </Card.Text>
-          <Button variant="primary">Go somewhere</Button>
+          <Button variant="primary">Learn more</Button>
         </Card.Body>
       </Card>
     </div>
