@@ -6,11 +6,12 @@ import schedulerScreenshot from "../assets/projects/scheduler-newappt.png";
 import findersSneakersScreenshot from "../assets/projects/finderssneakers-index-loggedin.png";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
+import "../styles/Projects.css";
 
 
 export default function Projects() {
   return (
-    <div id="projects" className="pb-5">
+    <div id="projects" className="pb-5 projects-section">
       <Container>
         <h3 className="pt-3">Projects</h3>
       </Container>
@@ -20,8 +21,7 @@ export default function Projects() {
         <Card.Body>
           <Card.Title>Gardnr</Card.Title>
           <Card.Text>
-            Some quick example text to build on the card title and make up the
-            bulk of the card's content.
+            A multi-page React application integrated with a weather API allowing users to manage their garden plants' watering schedules.
           </Card.Text>
           <Button variant="primary">Go somewhere</Button>
         </Card.Body>
