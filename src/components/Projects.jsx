@@ -48,7 +48,7 @@ export default function Projects() {
 
 
   return (
-    <div id="projects" className="pb-5 projects-section">
+    <div id="projects" className="pb-5">
       <Container>
         <h3 className="pt-3">Projects</h3>
         <div className="d-flex justify-content-evenly">
