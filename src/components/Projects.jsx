@@ -16,7 +16,7 @@ export default function Projects() {
         <h3 className="pt-3">Projects</h3>
       </Container>
 
-      <Card style={{ width: "18rem" }} className="text-center">
+      <Card bg="light" text="dark" style={{ width: "18rem" }} className="text-center">
         <Card.Img variant="top" src={gardnrScreenshot} />
         <Card.Body>
           <Card.Title>Gardnr</Card.Title>
