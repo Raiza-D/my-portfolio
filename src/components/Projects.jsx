@@ -35,7 +35,7 @@ export default function Projects() {
     <div id="projects" className="pb-5 projects-section">
       <Container>
         <h3 className="pt-3">Projects</h3>
-        <div>
+        <div className="d-flex justify-content-evenly">
           {projects.map(project => {
             return (
               <Card
