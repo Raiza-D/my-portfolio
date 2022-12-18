@@ -18,14 +18,30 @@ export default function Projects() {
       photo: gardnrScreenshot,
       link: "https://github.com/Raiza-D/GARDNR-Final-Project",
       description:
-        "A multi-page React application integrated with a weather API allowing users to manage their garden plants' watering schedules.",
+        "A multi-page React app integrated with a weather API allowing users to manage their garden plants' watering schedules.",
     },
     {
       id: 2,
       name: "Jungle Rails",
       photo: jungleRailsScreenshot,
       link: "https://github.com/Raiza-D/jungle-rails",
-      description: "An e-commerce Rails app built for learniing Rails through example."
+      description:
+        "An e-commerce Rails app built for learniing Rails through example.",
+    },
+    {
+      id: 3,
+      name: "Scheduler",
+      photo: schedulerScreenshot,
+      link: "https://github.com/Raiza-D/scheduler",
+      description:
+        "A single-page React application allowing users to create, edit, and delete interview appointments.",
+    },
+    {
+      id: 4,
+      name: "FindersSneakers",
+      photo: findersSneakersScreenshot,
+      link: "https://github.com/Raiza-D/Midterm-Finders-Sneakers",
+      description: "A multi-page buy/sell listing application for sneaker lovers!"
     },
   ];
 
