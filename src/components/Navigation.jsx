@@ -9,7 +9,7 @@ export default function Navigation() {
     <div className="menu">
       <Navbar
         className="d-flex justify-content-between ps-3 pe-3"
-        bg="myOrange"
+        bg="myOrange" fixed="top"
       >
         <Navbar.Brand>
           <Nav.Link href="#home">
