@@ -8,7 +8,7 @@ import findersSneakersScreenshot from "../assets/projects/finderssneakers-index-
 
 export default function Projects() {
   return (
-    <div id="projects">
+    <div id="projects" className="pb-5">
       <Container>
         <h3 className="pt-3">Projects</h3>
 
