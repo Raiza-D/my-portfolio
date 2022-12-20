@@ -109,7 +109,7 @@ export default function About() {
 
 
   return (
-    <div id="about-me" className="about">
+    <div id="about-me" className="aboutme-section">
       <Container className="pt-3 pb-3 about-blur">
         <h3 className="pb-3">About Me</h3>
         <div className="d-flex">
