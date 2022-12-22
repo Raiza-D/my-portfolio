@@ -26,7 +26,7 @@ export default function Projects() {
       photo: jungleRailsScreenshot,
       link: "https://github.com/Raiza-D/jungle-rails",
       description:
-        "An e-commerce Rails app built for learniing Rails through example.",
+        "An e-commerce Rails app built for learning Rails through example.",
     },
     {
       id: 3,
