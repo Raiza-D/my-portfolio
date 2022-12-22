@@ -14,7 +14,7 @@ export default function Projects() {
   const projects = [
     {
       id: 1,
-      name: "Gardnr",
+      name: "Gardnr 🍃",
       photo: gardnrScreenshot,
       link: "https://github.com/Raiza-D/GARDNR-Final-Project",
       description:
@@ -22,7 +22,7 @@ export default function Projects() {
     },
     {
       id: 2,
-      name: "Jungle Rails",
+      name: "Jungle Rails 🪴",
       photo: jungleRailsScreenshot,
       link: "https://github.com/Raiza-D/jungle-rails",
       description:
@@ -30,7 +30,7 @@ export default function Projects() {
     },
     {
       id: 3,
-      name: "Scheduler",
+      name: "Scheduler 🗓️",
       photo: schedulerScreenshot,
       link: "https://github.com/Raiza-D/scheduler",
       description:
@@ -38,7 +38,7 @@ export default function Projects() {
     },
     {
       id: 4,
-      name: "FindersSneakers",
+      name: "FindersSneakers 👟",
       photo: findersSneakersScreenshot,
       link: "https://github.com/Raiza-D/Midterm-Finders-Sneakers",
       description: "A multi-page buy/sell listing application for sneaker lovers!"
