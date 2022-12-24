@@ -7,6 +7,7 @@ import findersSneakersScreenshot from "../assets/projects/finderssneakers-index-
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 import "../styles/Projects.css";
+import tweeterGif from "../assets/projects/tweeter-app.gif";
 
 
 export default function Projects() {
@@ -41,24 +42,30 @@ export default function Projects() {
       name: "FindersSneakers 👟",
       photo: findersSneakersScreenshot,
       link: "https://github.com/Raiza-D/Midterm-Finders-Sneakers",
-      description: "A multi-page buy/sell listing application for sneaker lovers!"
+      description:
+        "A multi-page buy/sell listing application for sneaker lovers!",
+    },
+    {
+      id: 5,
+      name: "Tweeter",
+      photo: tweeterGif,
+      link: "https://github.com/Raiza-D/tweeter",
+      description: "A Twitter clone. Users can create short posts up to 140 characters and append them to the page."
     },
   ];
-
-
 
   return (
     <div id="projects" className="projects-section pb-5">
       <Container>
         <h3 className="pt-3 pb-3">Projects</h3>
-        <div className="d-flex justify-content-evenly">
+        <div className="d-flex justify-content-between">
           {projects.map(project => {
             return (
               <Card
                 bg="light"
                 text="dark"
                 style={{ width: "18rem" }}
-                className="text-center"
+                className="text-center ms-5 me-5 mb-5"
               >
                 <Card.Img variant="top" src={project.photo} height="120" />
                 <Card.Body>
