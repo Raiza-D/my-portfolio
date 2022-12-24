@@ -1,5 +1,5 @@
 import React from "react";
-import Container from "react-bootstrap/Container";
+import { Container, Row } from "react-bootstrap";
 import gardnrScreenshot from "../assets/projects/gardnr-weatherwarning.png";
 import jungleRailsScreenshot from "../assets/projects/jungle-rails-home.png";
 import schedulerScreenshot from "../assets/projects/scheduler-newappt.png";
@@ -58,7 +58,7 @@ export default function Projects() {
     <div id="projects" className="projects-section pb-5">
       <Container>
         <h3 className="pt-3 pb-3">Projects</h3>
-        <div className="d-flex justify-content-between">
+        <Row className="d-flex justify-content-between">
           {projects.map(project => {
             return (
               <Card
@@ -79,7 +79,7 @@ export default function Projects() {
               </Card>
             );
           })}
-        </div>
+        </Row>
       </Container>
     </div>
   );
