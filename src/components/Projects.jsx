@@ -66,7 +66,7 @@ export default function Projects() {
                 text="light"
                 style={{
                   width: "20rem",
-                  border: "2px solid rgb(255, 145, 0)"
+                  border: "2px solid rgb(255, 145, 0)",
                 }}
                 className="text-center ps-0 pe-0 ms-5 me-5 mb-5"
               >
@@ -76,7 +76,14 @@ export default function Projects() {
                   <hr />
                   <Card.Text>{project.description}</Card.Text>
                   <a href={project.link} target="_blank" rel="noreferrer">
-                    <Button variant="primary">Learn more</Button>
+                    <Button
+                      style={{
+                        backgroundColor: "rgb(255, 145, 0)",
+                        borderColor: "rgb(255, 145, 0)"
+                      }}
+                    >
+                      Learn more
+                    </Button>
                   </a>
                 </Card.Body>
               </Card>
