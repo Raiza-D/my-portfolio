@@ -62,8 +62,8 @@ export default function Projects() {
           {projects.map(project => {
             return (
               <Card
-                bg="light"
-                text="dark"
+                bg="transparent"
+                text="light"
                 style={{ width: "20rem" }}
                 className="text-center ps-0 pe-0 ms-5 me-5 mb-5"
               >
