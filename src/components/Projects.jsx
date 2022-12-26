@@ -65,7 +65,7 @@ export default function Projects() {
                 bg="light"
                 text="dark"
                 style={{ width: "18rem" }}
-                className="text-center ms-5 me-5 mb-5"
+                className="text-center ps-0 pe-0 ms-5 me-5 mb-5"
               >
                 <Card.Img variant="top" src={project.photo} height="120" />
                 <Card.Body>
