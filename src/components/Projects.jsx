@@ -73,7 +73,7 @@ export default function Projects() {
                 <Card.Img variant="top" src={project.photo} height="120" />
                 <Card.Body>
                   <Card.Title>{project.name}</Card.Title>
-                  <hr />
+                  <hr className="hr-projects" />
                   <Card.Text>{project.description}</Card.Text>
                   <a href={project.link} target="_blank" rel="noreferrer">
                     <Button
