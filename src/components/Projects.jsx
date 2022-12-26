@@ -50,7 +50,7 @@ export default function Projects() {
       name: "Tweeter 💭",
       photo: tweeterGif,
       link: "https://github.com/Raiza-D/tweeter",
-      description: "A Twitter clone. Users can create short posts up to 140 characters and append them to the page."
+      description: "A simple Twitter clone where users can create short posts up to 140 characters and append them to the page."
     },
   ];
 
