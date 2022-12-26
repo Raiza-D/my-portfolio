@@ -1,3 +1,7 @@
 .projects-section {
   height: 100%;
 }
+
+.hr-projects {
+  border-top: 3px solid rgb(255, 145, 0)
+}
