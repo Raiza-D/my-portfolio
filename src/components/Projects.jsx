@@ -64,7 +64,10 @@ export default function Projects() {
               <Card
                 bg="transparent"
                 text="light"
-                style={{ width: "20rem" }}
+                style={{
+                  width: "20rem",
+                  border: "2px solid rgb(255, 145, 0)"
+                }}
                 className="text-center ps-0 pe-0 ms-5 me-5 mb-5"
               >
                 <Card.Img variant="top" src={project.photo} height="120" />
