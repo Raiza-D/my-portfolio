@@ -76,14 +76,7 @@ export default function Projects() {
                   <hr className="hr-projects" />
                   <Card.Text>{project.description}</Card.Text>
                   <a href={project.link} target="_blank" rel="noreferrer">
-                    <Button
-                      style={{
-                        backgroundColor: "rgb(255, 145, 0)",
-                        borderColor: "rgb(255, 145, 0)"
-                      }}
-                    >
-                      Learn more
-                    </Button>
+                    <Button>Learn more</Button>
                   </a>
                 </Card.Body>
               </Card>
