@@ -5,3 +5,13 @@
 .hr-projects {
   border-top: 3px solid rgb(255, 145, 0)
 }
+
+.btn.btn-primary {
+  background-color: rgb(255, 145, 0);
+  border: 2px solid rgb(255, 145, 0);
+}
+
+.btn.btn-primary:hover {
+  background-color: transparent;
+  border: 2px solid rgb(255, 145, 0);
+}
