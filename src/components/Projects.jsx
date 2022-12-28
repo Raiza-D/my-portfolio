@@ -38,6 +38,7 @@ export default function Projects() {
       link: "https://github.com/Raiza-D/scheduler",
       description:
         "A single-page React application allowing users to create, edit, and delete interview appointments.",
+      stack: "React, Storybook, Jest, Cypress"
     },
     {
       id: 4,
