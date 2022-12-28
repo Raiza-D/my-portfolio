@@ -80,7 +80,9 @@ export default function Projects() {
                   <Card.Title>{project.name}</Card.Title>
                   <hr className="hr-projects" />
                   <Card.Text>{project.description}</Card.Text>
-                  <Card.Text className="fw-bold">Built with: </Card.Text>
+                  <Card.Text>
+                    <p className="fw-bold">Built with: </p>
+                  </Card.Text>
                   <a href={project.link} target="_blank" rel="noreferrer">
                     <Button className="rounded-0">Learn more</Button>
                   </a>
