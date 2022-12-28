@@ -81,7 +81,7 @@ export default function Projects() {
                   width: "20rem",
                   border: "2px solid rgb(255, 145, 0)",
                 }}
-                className="text-center ps-0 pe-0 ms-5 me-5 mb-5 rounded-0"
+                className="text-center ps-0 pe-0 ms-3 me-3 mb-5 rounded-0"
               >
                 <Card.Img variant="top" src={project.photo} height="220" />
                 <Card.Body>
