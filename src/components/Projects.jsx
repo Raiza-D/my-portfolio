@@ -76,7 +76,7 @@ export default function Projects() {
                   <hr className="hr-projects" />
                   <Card.Text>{project.description}</Card.Text>
                   <a href={project.link} target="_blank" rel="noreferrer">
-                    <Button>Learn more</Button>
+                    <Button className="rounded-0">Learn more</Button>
                   </a>
                 </Card.Body>
               </Card>
