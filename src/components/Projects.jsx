@@ -47,6 +47,7 @@ export default function Projects() {
       link: "https://github.com/Raiza-D/Midterm-Finders-Sneakers",
       description:
         "A multi-page buy/sell listing application for sneaker lovers!",
+      stack: "HTML, CSS, JavaScript, jQuery, NodeJS, Express, PostgreSQL"
     },
     {
       id: 5,
