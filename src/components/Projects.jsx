@@ -62,7 +62,7 @@ export default function Projects() {
       id: 6,
       name: "TinyApp 📏",
       link: "https://github.com/Raiza-D/tinyapp",
-      description: "A full-stack web app to shorten URLs (à la bit.ly)",
+      description: "A full-stack web app to shorten URLs (à la bit.ly).",
       stack: "HTML, CSS, JavaScript, Express, NodeJS"
     },
   ];
