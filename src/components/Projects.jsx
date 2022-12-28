@@ -19,8 +19,8 @@ export default function Projects() {
       photo: gardnrScreenshot,
       link: "https://github.com/Raiza-D/GARDNR-Final-Project",
       description:
-        "A multi-page React app integrated with Accuweather API. It allows users to manage their garden plants' watering schedules.",
-      stack: "React, Bootstrap, Express, PostgreSQL"
+        "A React app integrated with Accuweather API. It allows users to manage their garden plants' watering schedules.",
+      stack: "React, Bootstrap, Express, PostgreSQL, Accuweater API"
     },
     {
       id: 2,
