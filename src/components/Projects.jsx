@@ -20,7 +20,7 @@ export default function Projects() {
       link: "https://github.com/Raiza-D/GARDNR-Final-Project",
       description:
         "A React app integrated with Accuweather API. It allows users to manage their garden plants' watering schedules.",
-      stack: "React, Bootstrap, Express, PostgreSQL"
+      stack: "React, Bootstrap, Express, PostgreSQL",
     },
     {
       id: 2,
@@ -29,7 +29,7 @@ export default function Projects() {
       link: "https://github.com/Raiza-D/jungle-rails",
       description:
         "An e-commerce Rails app built for learning Rails through example.",
-      stack: "Ruby on Rails, Bootstrap, PostgreSQL, Stripe, Cypress"
+      stack: "Ruby on Rails, Bootstrap, PostgreSQL, Stripe, Cypress",
     },
     {
       id: 3,
@@ -38,7 +38,7 @@ export default function Projects() {
       link: "https://github.com/Raiza-D/scheduler",
       description:
         "A single-page React application allowing users to create, edit, and delete interview appointments.",
-      stack: "React, Storybook, Jest, Cypress"
+      stack: "React, Storybook, Jest, Cypress",
     },
     {
       id: 4,
@@ -47,15 +47,23 @@ export default function Projects() {
       link: "https://github.com/Raiza-D/Midterm-Finders-Sneakers",
       description:
         "A multi-page buy/sell listing application for sneaker lovers!",
-      stack: "HTML, CSS, SASS, JavaScript, jQuery, NodeJS, Express, PostgreSQL"
+      stack: "HTML, CSS, SASS, JavaScript, jQuery, NodeJS, Express, PostgreSQL",
     },
     {
       id: 5,
       name: "Tweeter 💭",
       photo: tweeterGif,
       link: "https://github.com/Raiza-D/tweeter",
-      description: "A simple Twitter clone allowing users to create short posts up to 140 characters and append them to the page.",
-      stack: "HTML, CSS, JavaScript, jQuery, Express"
+      description:
+        "A simple Twitter clone allowing users to create short posts up to 140 characters and append them to the page.",
+      stack: "HTML, CSS, JavaScript, jQuery, Express",
+    },
+    {
+      id: 6,
+      name: "TinyApp",
+      link: "https://github.com/Raiza-D/tinyapp",
+      description: "A full-stack web app to shorten URLs (à la bit.ly)",
+      stack: "HTML, CSS, JavaScript, Express, NodeJS"
     },
   ];
 
