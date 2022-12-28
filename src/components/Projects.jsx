@@ -29,7 +29,7 @@ export default function Projects() {
       link: "https://github.com/Raiza-D/jungle-rails",
       description:
         "An e-commerce Rails app built for learning Rails through example.",
-      stack: "Ruby on Rails, Bootstrap, PostgreSQL, Stripe, Webpack, Cypress"
+      stack: "Ruby on Rails, Bootstrap, PostgreSQL, Stripe, Cypress"
     },
     {
       id: 3,
