@@ -15,3 +15,7 @@
   background-color: transparent;
   border: 2px solid rgb(255, 145, 0);
 }
+
+.card-effects:hover {
+  box-shadow: 2px 2px 10px 2px rgb(255, 145, 0);
+}
