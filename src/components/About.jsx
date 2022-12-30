@@ -123,7 +123,7 @@ export default function About() {
               and client-oriented environment, working closely with people from
               different departments and across varying reporting levels within
               an organization. I'm excited to work in tech and
-              utilize my invaluable experiences in a Web Development capacity.
+              utilize my invaluable experiences and skills in a Web Development capacity.
               My preference is the Front-End, as I love the visuals, but I'm
               equally eager to apply my skills and continue learning in a
               Full-Stack role.
