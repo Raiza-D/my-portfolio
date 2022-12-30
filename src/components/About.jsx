@@ -130,8 +130,7 @@ export default function About() {
             </p>
             <p>
               When I'm not indoors crafting code, I can be found hiking in
-              nature, happily standing on top of a long-awaited mountain peak
-              beaming my signature, exceptionally friendly smile and thinking about which mountain top to summit next.
+              nature, happily standing on top of a long-awaited mountain peak and thinking about which mountain top to summit next.
             </p>
           </div>
         </div>
