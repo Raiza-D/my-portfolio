@@ -11,6 +11,10 @@
   height: 100vh;
 }
 
+.about-img:hover {
+  opacity: 0.6;
+}
+
 .skills-img:hover {
   transform: scale(1.5);
   transition: 1s;
