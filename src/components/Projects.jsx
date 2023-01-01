@@ -7,7 +7,7 @@ import findersSneakersScreenshot from "../assets/projects/finderssneakers-index-
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 import "../styles/Projects.css";
-import tweeterGif from "../assets/projects/tweeter-app.gif";
+import tweeterGif from "../assets/projects/tweeter.gif";
 import tinyAppGif from "../assets/projects/tinyapp.gif";
 
 
