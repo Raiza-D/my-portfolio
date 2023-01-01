@@ -83,7 +83,7 @@ export default function Projects() {
                 }}
                 className="card-effects text-center ps-0 pe-0 ms-3 me-3 mb-5 rounded-0"
               >
-                <Card.Img variant="top" src={project.photo} height="220" />
+                <Card.Img className="rounded-0" variant="top" src={project.photo} height="220" />
                 <Card.Body>
                   <Card.Title>{project.name}</Card.Title>
                   <hr className="hr-projects" />
