@@ -8,6 +8,7 @@ import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 import "../styles/Projects.css";
 import tweeterGif from "../assets/projects/tweeter-app.gif";
+import tinyAppGif from "../assets/projects/tinyapp.gif";
 
 
 export default function Projects() {
@@ -61,6 +62,7 @@ export default function Projects() {
     {
       id: 6,
       name: "TinyApp 📏",
+      photo: tinyAppGif,
       link: "https://github.com/Raiza-D/tinyapp",
       description: "A full-stack web app to shorten URLs (à la bit.ly).",
       stack: "HTML, CSS, JavaScript, EJS, Express, NodeJS"
