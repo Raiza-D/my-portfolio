@@ -113,7 +113,7 @@ export default function About() {
       <Container className="pt-3 pb-3 about-blur">
         <h3 className="pb-3">About Me</h3>
         <div className="d-flex">
-          <img src={myPic} alt="raiza-headshot" width="219" height="213" className="pe-3"/>
+          <img src={myPic} alt="raiza-headshot" width="219" height="213" className="about-img pe-3"/>
           <div>
             <p>
               Hello, I'm Raiza. Nice to e-meet you! In 2022, I re-discovered coding and was reminded how rewarding it is to see a graphic representation of the code you have written. Since then, I decided to pursue a career in Web Development.
