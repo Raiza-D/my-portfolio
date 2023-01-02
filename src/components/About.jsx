@@ -119,10 +119,7 @@ export default function About() {
               Hello, I'm Raiza. Nice to e-meet you! In 2022, I re-discovered coding and was reminded how rewarding it is to see a graphic representation of the code you have written. Since then, I decided to pursue a career in Web Development.
             </p>
             <p>
-              I have over eight years of experience working in a team-focused
-              and client-oriented environment, working closely with people from
-              different departments and across varying reporting levels within
-              an organization. I'm excited to work in tech and
+              I'm excited to work in tech and
               utilize my invaluable experiences and skills in a Web Development capacity.
               My preference is the Front-End, as I love the visuals, but I'm
               equally eager to apply my skills and continue learning in a
