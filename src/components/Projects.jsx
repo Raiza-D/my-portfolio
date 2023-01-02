@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row } from "react-bootstrap";
-import jungleRailsScreenshot from "../assets/projects/jungle-rails-home.png";
+// import jungleRailsScreenshot from "../assets/projects/jungle-rails-home.png";
 import schedulerScreenshot from "../assets/projects/scheduler-newappt.png";
 import findersSneakersScreenshot from "../assets/projects/finderssneakers-index-loggedin.png";
 import Card from "react-bootstrap/Card";
@@ -9,6 +9,7 @@ import "../styles/Projects.css";
 import tweeterGif from "../assets/projects/tweeter.gif";
 import tinyAppGif from "../assets/projects/tinyapp.gif";
 import gardnrGif from "../assets/projects/gardnr.gif";
+import jungleRailsGif from "../assets/projects/jungle-rails.gif";
 
 
 export default function Projects() {
@@ -26,7 +27,7 @@ export default function Projects() {
     {
       id: 2,
       name: "Jungle Rails 🪴",
-      photo: jungleRailsScreenshot,
+      photo: jungleRailsGif,
       link: "https://github.com/Raiza-D/jungle-rails",
       description:
         "An e-commerce Rails app built for learning Rails through example.",
