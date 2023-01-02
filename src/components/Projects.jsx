@@ -1,6 +1,5 @@
 import React from "react";
 import { Container, Row } from "react-bootstrap";
-// import findersSneakersScreenshot from "../assets/projects/finderssneakers-index-loggedin.png";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 import "../styles/Projects.css";
