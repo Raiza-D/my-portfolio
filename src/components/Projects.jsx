@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row } from "react-bootstrap";
-import gardnrScreenshot from "../assets/projects/gardnr-weatherwarning.png";
+// import gardnrScreenshot from "../assets/projects/gardnr-weatherwarning.png";
 import jungleRailsScreenshot from "../assets/projects/jungle-rails-home.png";
 import schedulerScreenshot from "../assets/projects/scheduler-newappt.png";
 import findersSneakersScreenshot from "../assets/projects/finderssneakers-index-loggedin.png";
@@ -9,6 +9,7 @@ import Button from "react-bootstrap/Button";
 import "../styles/Projects.css";
 import tweeterGif from "../assets/projects/tweeter.gif";
 import tinyAppGif from "../assets/projects/tinyapp.gif";
+import gardnrGif from "../assets/projects/gardnr.gif";
 
 
 export default function Projects() {
@@ -17,7 +18,7 @@ export default function Projects() {
     {
       id: 1,
       name: "Gardnr 🍃",
-      photo: gardnrScreenshot,
+      photo: gardnrGif,
       link: "https://github.com/Raiza-D/GARDNR-Final-Project",
       description:
         "A React app integrated with Accuweather API. It allows users to manage their garden plants' watering schedules.",
