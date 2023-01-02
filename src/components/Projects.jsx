@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row } from "react-bootstrap";
-import findersSneakersScreenshot from "../assets/projects/finderssneakers-index-loggedin.png";
+// import findersSneakersScreenshot from "../assets/projects/finderssneakers-index-loggedin.png";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 import "../styles/Projects.css";
@@ -9,6 +9,7 @@ import tinyAppGif from "../assets/projects/tinyapp.gif";
 import gardnrGif from "../assets/projects/gardnr.gif";
 import jungleRailsGif from "../assets/projects/jungle-rails.gif";
 import interviewSchedulerGif from "../assets/projects/interview-scheduler.gif";
+import findersSneakersGif from "../assets/projects/finders-sneakers.gif";
 
 
 export default function Projects() {
@@ -44,7 +45,7 @@ export default function Projects() {
     {
       id: 4,
       name: "FindersSneakers 👟",
-      photo: findersSneakersScreenshot,
+      photo: findersSneakersGif,
       link: "https://github.com/Raiza-D/Midterm-Finders-Sneakers",
       description:
         "A multi-page buy/sell listing application for sneaker lovers!",
