@@ -8,7 +8,7 @@ import tweeterGif from "../assets/projects/tweeter.gif";
 import tinyAppGif from "../assets/projects/tinyapp.gif";
 import gardnrGif from "../assets/projects/gardnr.gif";
 import jungleRailsGif from "../assets/projects/jungle-rails.gif";
-import interviewSchedulerGif from "../assets/projects/interview-scheduler.gif"
+import interviewSchedulerGif from "../assets/projects/interview-scheduler.gif";
 
 
 export default function Projects() {
