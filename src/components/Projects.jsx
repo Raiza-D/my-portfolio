@@ -1,12 +1,12 @@
 import React from "react";
 import { Container, Row, Card, Button } from "react-bootstrap";
 import "../styles/Projects.css";
-import tweeterGif from "../assets/projects/tweeter.gif";
-import tinyAppGif from "../assets/projects/tinyapp.gif";
 import gardnrGif from "../assets/projects/gardnr.gif";
 import jungleRailsGif from "../assets/projects/jungle-rails.gif";
 import interviewSchedulerGif from "../assets/projects/interview-scheduler.gif";
 import findersSneakersGif from "../assets/projects/finders-sneakers.gif";
+import tweeterGif from "../assets/projects/tweeter.gif";
+import tinyAppGif from "../assets/projects/tinyapp.gif";
 
 
 export default function Projects() {
