@@ -116,7 +116,7 @@ export default function About() {
           <img src={myPic} alt="raiza-headshot" width="219" height="213" className="about-img pe-3"/>
           <div>
             <p>
-              Hello, I'm Raiza. Nice to e-meet you! In 2022, I re-discovered coding and was reminded how rewarding it is to see a graphic representation of the code you have written. Since then, I decided to pursue a career in Web Development.
+              Hello, I'm Raiza. Nice to e-meet you! In 2022, I re-discovered coding and was reminded how rewarding it is to see a graphic representation of the code you have written. Since then, I decided to pursue a career path in Web Development.
             </p>
             <p>
               I'm excited to work in tech and
