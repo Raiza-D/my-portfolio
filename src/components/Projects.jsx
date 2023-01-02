@@ -1,6 +1,5 @@
 import React from "react";
 import { Container, Row } from "react-bootstrap";
-// import gardnrScreenshot from "../assets/projects/gardnr-weatherwarning.png";
 import jungleRailsScreenshot from "../assets/projects/jungle-rails-home.png";
 import schedulerScreenshot from "../assets/projects/scheduler-newappt.png";
 import findersSneakersScreenshot from "../assets/projects/finderssneakers-index-loggedin.png";
