@@ -34,7 +34,7 @@ export default function Projects() {
     },
     {
       id: 3,
-      name: "Scheduler 🗓️",
+      name: "Interview Scheduler 🗓️",
       photo: interviewSchedulerGif,
       link: "https://github.com/Raiza-D/scheduler",
       description:
