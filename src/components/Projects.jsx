@@ -55,7 +55,7 @@ export default function Projects() {
       link: "https://github.com/Raiza-D/tweeter",
       description:
         "A simple Twitter clone allowing users to create short posts up to 140 characters and append them to the page.",
-      stack: "HTML, CSS, JavaScript, jQuery, Express",
+      stack: "HTML, CSS, JavaScript, jQuery, Express, NodeJS",
     },
     {
       id: 6,
