@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row } from "react-bootstrap";
-import schedulerScreenshot from "../assets/projects/scheduler-newappt.png";
+// import schedulerScreenshot from "../assets/projects/scheduler-newappt.png";
 import findersSneakersScreenshot from "../assets/projects/finderssneakers-index-loggedin.png";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
@@ -9,6 +9,7 @@ import tweeterGif from "../assets/projects/tweeter.gif";
 import tinyAppGif from "../assets/projects/tinyapp.gif";
 import gardnrGif from "../assets/projects/gardnr.gif";
 import jungleRailsGif from "../assets/projects/jungle-rails.gif";
+import interviewSchedulerGif from "../assets/projects/interview-scheduler.gif"
 
 
 export default function Projects() {
@@ -35,7 +36,7 @@ export default function Projects() {
     {
       id: 3,
       name: "Scheduler 🗓️",
-      photo: schedulerScreenshot,
+      photo: interviewSchedulerGif,
       link: "https://github.com/Raiza-D/scheduler",
       description:
         "A single-page React application allowing users to create, edit, and delete interview appointments.",
