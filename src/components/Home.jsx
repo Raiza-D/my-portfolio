@@ -1,7 +1,7 @@
 import React from "react";
 import Typewriter from "typewriter-effect";
 import "../styles/Home.css";
-import computerIcon from "../assets/computer-icon.png";
+import computerIcon from "../assets/home/computer-icon.png";
 
 export default function Home() {
   return (
