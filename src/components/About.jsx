@@ -2,20 +2,20 @@ import React from "react";
 import "../styles/About.css";
 import Container from "react-bootstrap/Container";
 import myPic from "../assets/rdg6426-cropped.png";
-import htmlLogo from "../assets/skills/html5.svg";
-import cssLogo from "../assets/skills/css3.svg";
-import javascriptLogo from "../assets/skills/javascript.svg";
-import rubyLogo from "../assets/skills/ruby.svg";
-import reactLogo from "../assets/skills/reactjs.svg";
-import bootstrapLogo from "../assets/skills/bootstrap.svg";
-import sassLogo from "../assets/skills/sass.svg";
-import expressLogo from "../assets/skills/express.svg";
-import rubyOnRailsLogo from "../assets/skills/ruby-on-rails.svg";
-import postgresqlLogo from "../assets/skills/postgresql.svg";
-import cypressLogo from "../assets/skills/cypress.svg";
-import nodeLogo from "../assets/skills/nodejs.svg";
-import npmLogo from "../assets/skills/npm.svg";
-import gitLogo from "../assets/skills/git.svg";
+import htmlLogo from "../assets/about-me/html5.svg";
+import cssLogo from "../assets/about-me/css3.svg";
+import javascriptLogo from "../assets/about-me/javascript.svg";
+import rubyLogo from "../assets/about-me/ruby.svg";
+import reactLogo from "../assets/about-me/reactjs.svg";
+import bootstrapLogo from "../assets/about-me/bootstrap.svg";
+import sassLogo from "../assets/about-me/sass.svg";
+import expressLogo from "../assets/about-me/express.svg";
+import rubyOnRailsLogo from "../assets/about-me/ruby-on-rails.svg";
+import postgresqlLogo from "../assets/about-me/postgresql.svg";
+import cypressLogo from "../assets/about-me/cypress.svg";
+import nodeLogo from "../assets/about-me/nodejs.svg";
+import npmLogo from "../assets/about-me/npm.svg";
+import gitLogo from "../assets/about-me/git.svg";
 
 
 export default function About() {
