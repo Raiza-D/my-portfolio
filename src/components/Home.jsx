@@ -1,6 +1,6 @@
 import React from "react";
-import "../styles/Home.css";
 import Typewriter from "typewriter-effect";
+import "../styles/Home.css";
 import computerIcon from "../assets/computer-icon.png";
 
 export default function Home() {
@@ -14,12 +14,10 @@ export default function Home() {
             strings: ["Full-Stack Web Developer", "Hello + welcome"],
             autoStart: true,
             loop: true,
-            delay: 90,
-            
+            delay: 90
           }}
           />
         </p>
-          
       </div>
     </div>
   );
