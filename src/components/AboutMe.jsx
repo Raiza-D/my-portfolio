@@ -1,6 +1,6 @@
 import React from "react";
-import "../styles/AboutMe.css";
 import Container from "react-bootstrap/Container";
+import "../styles/AboutMe.css";
 import myPic from "../assets/about-me/rdg6426-cropped.png";
 import htmlLogo from "../assets/about-me/html5.svg";
 import cssLogo from "../assets/about-me/css3.svg";
@@ -107,7 +107,6 @@ export default function About() {
     },
   ];
 
-
   return (
     <div id="about-me" className="aboutme-section">
       <Container className="pt-3 pb-3 about-blur">
@@ -148,7 +147,6 @@ export default function About() {
             );
           })}
         </div>
-
       </Container>
     </div>
   );
