@@ -1,8 +1,8 @@
 import React from "react";
 import Container from "react-bootstrap/Container";
 import "../styles/Contact.css";
-import linkedInLogo from "../assets/linkedin-original-wordmark.svg";
-import gitHubLogo from "../assets/github-original-wordmark.svg";
+import linkedInLogo from "../assets/contact/linkedin-original-wordmark.svg";
+import gitHubLogo from "../assets/contact/github-original-wordmark.svg";
 
 export default function Contact() {
   return (
