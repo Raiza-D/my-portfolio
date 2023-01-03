@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/About.css";
+import "../styles/AboutMe.css";
 import Container from "react-bootstrap/Container";
 import myPic from "../assets/about-me/rdg6426-cropped.png";
 import htmlLogo from "../assets/about-me/html5.svg";
