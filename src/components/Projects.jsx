@@ -82,6 +82,7 @@ export default function Projects() {
                   border: "2px solid rgb(255, 145, 0)",
                 }}
                 className="card-effects text-center ps-0 pe-0 ms-3 me-3 mb-5 rounded-0"
+                key={project.id}
               >
                 <Card.Img className="rounded-0" variant="top" src={project.photo} height="220" />
                 <Card.Body>
