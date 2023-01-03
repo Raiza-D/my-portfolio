@@ -1,7 +1,7 @@
 import React from "react";
 import "../styles/About.css";
 import Container from "react-bootstrap/Container";
-import myPic from "../assets/rdg6426-cropped.png";
+import myPic from "../assets/about-me/rdg6426-cropped.png";
 import htmlLogo from "../assets/about-me/html5.svg";
 import cssLogo from "../assets/about-me/css3.svg";
 import javascriptLogo from "../assets/about-me/javascript.svg";
