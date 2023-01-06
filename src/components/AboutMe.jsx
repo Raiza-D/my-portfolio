@@ -112,27 +112,36 @@ export default function About() {
       <Container className="pt-3 pb-3 about-blur">
         <h3 className="pb-3">About Me</h3>
         <div className="d-flex">
-          <img src={myPic} alt="raiza-headshot" width="219" height="213" className="about-img pe-3"/>
+          <img
+            src={myPic}
+            alt="raiza-headshot"
+            width="219"
+            height="213"
+            className="about-img pe-3"
+          />
           <div>
             <p>
-              Hello, I'm Raiza. Nice to e-meet you! In 2022, I re-discovered coding and was reminded how rewarding it is to see a graphic representation of the code you have written. Since then, I pivotted from a career in Operations/Supply Chain to pursue a career path in Web Development.
+              Hello, I'm Raiza. Nice to e-meet you! In 2022, I re-discovered
+              coding and was reminded how rewarding it is to see a graphic
+              representation of the code you have written. Since then, I
+              pivotted from a career in Operations/Supply Chain to pursue a
+              career path in Web Development.
             </p>
             <p>
-              I'm excited to work in tech and
-              utilize my invaluable experiences and skills in a Web Development capacity.
-              My preference is the Front-End, as I love the visuals, but I'm
-              equally eager to apply my skills and continue learning in a
-              Full-Stack role.
+              I'm excited to work in tech and utilize my invaluable experiences
+              and skills in a Web Development capacity. My preference is the
+              Front-End, as I love the visuals, but I'm equally eager to apply
+              my skills and continue learning in a Full-Stack role.
             </p>
             <p>
               When I'm not indoors crafting code, I can be found hiking in
-              nature, happily standing on top of a long-awaited mountain peak and thinking about which mountain top to summit next.
+              nature, happily standing on top of a long-awaited mountain peak
+              and thinking about which mountain top to summit next.
             </p>
           </div>
         </div>
         <hr />
         <p>These are some technologies I have worked with:</p>
-        <br />
         <div className="text-center">
           {skills.map(skill => {
             return (
