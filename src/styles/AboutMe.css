@@ -1,6 +1,6 @@
 .aboutme-section {
   background-image: url("../assets/about-me/mountains-bw.jpg");
-  height: 100vh;
+  height: 100%;
   background-repeat: no-repeat;
   color: black;
 }
@@ -8,7 +8,7 @@
 .about-blur {
   background: rgba(255, 255, 255, 0.2);
   backdrop-filter: blur(8px);
-  height: 100vh;
+  height: 100%;
 }
 
 .about-img:hover {
