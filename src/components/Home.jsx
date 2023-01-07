@@ -11,7 +11,7 @@ export default function Home() {
         <p className="p-my-name">Raiza De Guzman</p>
         <p className="p-my-title">
           <Typewriter options={{
-            strings: ["Full-Stack Web Developer", "Hello + welcome"],
+            strings: ["Full-Stack Web Developer", "Hello + welcome 🤓"],
             autoStart: true,
             loop: true,
             delay: 90
