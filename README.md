@@ -10,5 +10,5 @@ Thanks for visiting!
   - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 **Development mode:**
-  1. ```npm start```
+  1. Run ```npm start``` on your Terminal
   2. A new browser tab should automatically open, directing you to the app at ```localhost:3000```
