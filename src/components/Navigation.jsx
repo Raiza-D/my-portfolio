@@ -17,7 +17,7 @@ export default function Navigation() {
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
-          <Nav>
+          <Nav className="ms-auto">
             <Nav.Link href="#home">Home</Nav.Link>
             <Nav.Link href="#about-me">About Me</Nav.Link>
             <Nav.Link href="#projects">Projects</Nav.Link>
