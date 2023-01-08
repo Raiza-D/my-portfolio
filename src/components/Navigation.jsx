@@ -8,7 +8,7 @@ export default function Navigation() {
   return (
     <div className="fw-bold">
       <Navbar
-        className="d-flex justify-content-between ps-3 pe-3" bg="myOrange"
+        className="ps-3 pe-3" bg="myOrange"
         fixed="top">
         <Navbar.Brand>
           <Nav.Link href="#home">
