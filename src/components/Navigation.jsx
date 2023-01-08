@@ -9,7 +9,7 @@ export default function Navigation() {
     <div className="fw-bold">
       <Navbar
         className="ps-3 pe-3" bg="myOrange"
-        fixed="top">
+        fixed="top" collapseOnSelect expand="lg">
         <Navbar.Brand>
           <Nav.Link href="#home">
             <img src={myLogo} alt="rdg" width="100px" height="40px" />
