@@ -1,4 +1,4 @@
-My Portfolio Site
+My Portfolio Site 🤓
 =========
 Thanks for visiting!
 
@@ -8,3 +8,7 @@ Thanks for visiting!
   - [REACT.js](https://reactjs.org/)
   - [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
   - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+**Development mode:**
+  1. ```npm start```
+  2. A new browser tab should automatically open, directing you to the app at ```localhost:3000```
