@@ -123,15 +123,13 @@ export default function About() {
             <p>
               Hello, I'm Raiza. Nice to e-meet you! In 2022, I re-discovered
               coding and was reminded how rewarding it is to see a graphic
-              representation of the code you have written. Since then, I
-              pivotted from a career in Operations/Supply Chain to pursue a
-              career path in Web Development.
+              representation of the code you have written. Since then, I decided to grow my skill proficiency in Web Development.
             </p>
             <p>
               I'm excited to work in tech and utilize my invaluable experiences
               and skills in a Web Development capacity. My preference is the
               Front-End, as I love the visuals, but I'm equally eager to apply
-              my skills and continue learning in a Full-Stack role.
+              my talents and continue learning in a Full-Stack role.
             </p>
             <p>
               When I'm not indoors crafting code, I can be found hiking in
