@@ -123,7 +123,15 @@ export default function About() {
             <p>
               Hello, I'm Raiza. Nice to e-meet you! In 2022, I re-discovered
               coding and was reminded how rewarding it is to see a graphic
-              representation of the code you have written. Since then, I decided to grow my skill proficiency in Web Development.
+              representation of the code you have written. Since then, I decided
+              to grow my skill proficiency in Web Development.
+            </p>
+            <p>
+              I have a background in Inventory Management, having worked in a
+              team-driven and client-focused environment for over eight years.
+              The project management, analytical and problem-solving skills I
+              employed as an inventory professional transfer well into web
+              development.
             </p>
             <p>
               I'm excited to work in tech and utilize my invaluable experiences
@@ -141,7 +149,7 @@ export default function About() {
         <hr />
         <p>These are some technologies I have worked with:</p>
         <div className="text-center skills-list">
-          {skills.map(skill => {
+          {skills.map((skill) => {
             return (
               <a
                 href={skill.link}
