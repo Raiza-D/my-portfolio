@@ -71,7 +71,7 @@ export default function Projects() {
     <div id="projects" className="projects-section pb-5">
       <Container>
         <h3 className="pt-3 pb-3">Projects</h3>
-        <Row className="d-flex justify-content-between">
+        <Row className="d-flex justify-content-center">
           {projects.map(project => {
             return (
               <Card
