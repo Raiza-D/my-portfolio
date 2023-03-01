@@ -134,8 +134,7 @@ export default function About() {
               development.
             </p>
             <p>
-              I'm excited to work in tech and utilize my invaluable experiences
-              and skills in a Web Development capacity. My preference is the
+              I'm thrilled to be able to call myself a coding nerd and create web applications using both my technical skills and invaluable experiences. My preference is the
               Front-End, as I love the visuals, but I'm equally eager to apply
               my talents and continue learning in a Full-Stack role.
             </p>
