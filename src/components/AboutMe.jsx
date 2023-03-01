@@ -135,8 +135,7 @@ export default function About() {
             </p>
             <p>
               I'm thrilled to be able to call myself a coding nerd and create web applications using both my technical skills and invaluable experiences. My preference is the
-              Front-End, as I love the visuals, but I'm equally eager to apply
-              my talents and continue learning in a Full-Stack role.
+              Front-End, as I love the visuals, but I'm equally eager to continue learning from a Full-Stack angle.
             </p>
             <p>
               When I'm not indoors crafting code, I can be found hiking in
